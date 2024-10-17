@@ -1,0 +1,15 @@
+TAG:2.5.0
+ROOT:FALSE
+ABI:2
+MODEL:SM-A336E
+SDK:34
+RELEASE:14
+---StackTrace---
+java.lang.RuntimeException
+Can not find an effective mount command: /dev/block/dm-5 on / type f2fs (ro,lazytime,seclabel,relatime,background_gc=on,nodiscard,no_heap,user_xattr,inline_xattr,acl,inline_data,inline_dentry,extent_cache,mode=adaptive,active_logs=2,inlinecrypt,alloc_mode=reuse,checkpoint_merge,fsync_mode=posix,memory=normal)
+			at o0oOOooO.o(wiaBnjyhM.java:83)
+			at o0oOOooO.<init>(wiaBnjyhM.java:40)
+			at o0oOOo00.<init>(UEDNJCxqKN.java:25)
+			at Oo0oooO.0(NPHNmQUfK.java:387)
+			at Oo0oooO.o(NPHNmQUfK.java:24)
+			at Oo0oooo.run(NPHNmQUfK.java:359)
